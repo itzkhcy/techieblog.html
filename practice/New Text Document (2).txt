@@ -1,0 +1,8 @@
+<html>
+<body>
+<Hr>
+<a href="techieblog.html"><H1><img src="l.png" alt="Italian Trulli" style="float:left;width:70px;height:70px;"> </a>
+<center> <H1><font color="purple">Contact Us</font></h1> </center>
+<hr>
+</body>
+</html>
